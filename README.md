@@ -1,10 +1,10 @@
-##👋 Hi there, I'm Hasan Arda Aydoğan
+👋 Hi there, I'm Hasan Arda Aydoğan
 
 🎓 Computer Engineering Student
 💻 Interested in DevOps, Cloud, Software Engineering and Embedded Systems
 
 
-# 🧰 My Toolbox
+🧰 My Toolbox
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
